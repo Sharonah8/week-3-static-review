@@ -8,7 +8,7 @@ This document outlines the requirements for a simple web-based image gallery. Th
 
 ## 2. Functional Requirements
 
-### 2.1 Image Display
+### 2.1 Image Display.
 
 - **FR1.1**: The gallery shall display a collection of images.  
 - **FR1.2**: Each image must be accompanied by a descriptive label.  
